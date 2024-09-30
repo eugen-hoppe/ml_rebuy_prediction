@@ -5,7 +5,12 @@ Educational machine learning project aimed at optimizing newsletter marketing pr
 
 ## Project Overview
 
-This project aims to predict the **likelihood of a customer making a purchase within the next 90 days** in an online shop using machine learning techniques. By analyzing customer purchase history and interaction with marketing campaigns, the developed model allows targeted marketing efforts, optimized newsletter campaigns, and overall improved customer engagement. 
+This project aims to predict the **likelihood of a customer making a purchase within the next 90 days** in an online shop using machine learning techniques. By analyzing customer purchase history and interaction with marketing campaigns, the developed model allows targeted marketing efforts, optimized newsletter campaigns, and overall improved customer engagement.
+
+## Change Log
+
+- [2024.09.29 17:15](https://github.com/eugen-hoppe/ml_rebuy_prediction/tree/145f977a45b95af77b8673ceb7d0ac4a75eb5f4a) - v1.0: BETA
+- [2024.09.30 10:30](https://github.com/eugen-hoppe/ml_rebuy_prediction/blob/main/v1.ipynb) - v1.1: FIX (Evaluation/Results) model 0 as production model
 
 ## Goals
 
